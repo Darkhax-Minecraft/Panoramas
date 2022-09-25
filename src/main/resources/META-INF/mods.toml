@@ -1,0 +1,38 @@
+modLoader="javafml"
+loaderVersion="[36,]"
+issueTrackerURL="https://github.com/Darkhax-Minecraft/Panoramas/issues"
+license="LGPL v2.1"
+
+[[mods]]
+modId="panoramas"
+updateJSONURL="https://updates.blamejared.com/get?n=panoramas&gv=1.16.5"
+version="${file.jarVersion}"
+displayName="${modName}"
+displayURL="${modHomepage}"
+credits="${modCredits}"
+authors="${modAuthor}"
+description='''
+${modDescription}
+'''
+itemIcon="minecraft:map"
+
+[[dependencies.panoramas]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,]"
+    ordering="NONE"
+    side="CLIENT"
+
+[[dependencies.panoramas]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="CLIENT"
+
+[[dependencies.panoramas]]
+modId="bookshelf"
+mandatory=true
+versionRange="[10.4.32,]"
+ordering="NONE"
+side="CLIENT"

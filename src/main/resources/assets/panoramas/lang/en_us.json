@@ -1,0 +1,29 @@
+{
+  "panoramas.creator.output": "Created panorama %s",
+  
+  "screen.panoramas.preview.title": "Panorama Viewer",
+  "screen.panoramas.preview.entry.title": "%s by %s",
+  "screen.panoramas.preview.entry.id": "Id: %s",
+  "screen.panoramas.preview.entry.weight": "Weight: %s",
+  "screen.panoramas.preview.fullscreen": "Fullscreen",
+  
+  "panorama.minecraft.default.title": "Vanilla Panorama",
+  "panorama.minecraft.default.desc": "The default panorama included with the base vanilla game.",
+  "panorama.minecraft.default.author": "Mojang AB",
+  
+  "panorama.panoramas.frozen_ocean.title": "Frozen Ocean",
+  "panorama.panoramas.frozen_ocean.desc": "A glance at the Frozen Ocean biome.",
+  "panorama.panoramas.frozen_ocean.author": "Darkhax",
+  
+  "panorama.panoramas.forest.title": "Forest",
+  "panorama.panoramas.forest.desc": "A traditional Minecraft Forest.",
+  "panorama.panoramas.forest.author": "Darkhax",
+  
+  "panorama.panoramas.title_seed.title": "Title Seed",
+  "panorama.panoramas.title_seed.desc": "A recreation of the historic Minecraft title screen.",
+  "panorama.panoramas.title_seed.author": "Darkhax",
+  
+  "panorama.panoramas.kelp_sea.title": "Kelp Sea",
+  "panorama.panoramas.kelp_sea.desc": "The depths of the kelp sea.",
+  "panorama.panoramas.kelp_sea.author": "Darkhax"
+}
